@@ -57,6 +57,11 @@ Programming Language:C,C++ and a little bit of Python<br/>
 About: I am presently studying computer science at Thapar Institute of Engineering and Technology and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
+Name:[Siddharth De](https://github.com/DarthSId1603)<br />
+Place: New Delhi/ Hyderabad<br />
+About: A beginner in programming languages<br />
+Programming languages:C,C++<br />
+
 Name: [Sanket Chaudhari](https://github.com/sanket143)<br />
 Place: Gandhinagar<br />
 About: Loves exploring technologies and so fond of App/Web Development.
