@@ -24,5 +24,5 @@ int main()
   if(sum==n)
     cout<<"\nIS AN ARMSTRONG NUMBER";
   else
-    cout<<"\nNOT AN ARMSTRONG NUMBER";
+    cout<<"\nNOT AN ARMSTRONG NUMBER\n";
 }
